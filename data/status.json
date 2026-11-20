@@ -1,0 +1,121 @@
+{
+  "lastUpdated": "Nov 18, 2026, 9:35 PM (Malaysia time, UTC+8)",
+  "logs": [
+    {
+      "id": "cs",
+      "name": "Support System",
+      "color": "#2ec4b6",
+      "date": "2026-11-13",
+      "items": [
+        {
+          "title": "AI phone answering research report",
+          "detail": "Reviewed available tools and wrote a research report with prices shown in MYR.",
+          "status": "Done"
+        },
+        {
+          "title": "Tool stack evaluation",
+          "detail": "Evaluated the current tool stack against actual plans and concluded no server upgrade is needed.",
+          "status": "Done"
+        },
+        {
+          "title": "Self-hosted Chatwoot + Instagram feasibility check",
+          "detail": "Checked whether the current Chatwoot version can connect Instagram via Meta Unified Login; it cannot yet.",
+          "status": "Done"
+        },
+        {
+          "title": "Chatwoot auto-tagging workflow (test)",
+          "detail": "Designed a test sub-workflow for auto-tagging, plus advice on urgent-chat alerts and a membership-freeze intake flow.",
+          "status": "In progress",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "id": "jarvis",
+      "name": "Jarvis · Director",
+      "color": "#6b8cff",
+      "date": "2026-11-13",
+      "items": [
+        {
+          "title": "Dispatching and reviewing tasks",
+          "detail": "Assigned tasks to News Radar and Support System, and reviewed the results before delivery.",
+          "status": "Ongoing"
+        },
+        {
+          "title": "Virtual office",
+          "detail": "Built two versions and three art-style samples.",
+          "status": "Done"
+        },
+        {
+          "title": "Server check",
+          "detail": "Ran a read-only health check.",
+          "status": "Done"
+        },
+        {
+          "title": "Virtual office website deployed",
+          "detail": "Website is live and updated daily.",
+          "status": "Done"
+        },
+        {
+          "title": "Video tool idea",
+          "detail": "Looked into a text-to-short-video tool; an install guide can wait until the support work settles.",
+          "status": "In progress",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "Outlet opening-date and presale facts updated",
+          "detail": "Updated a new outlet's estimated opening date and presale facts.",
+          "status": "Done",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "Support architecture advice",
+          "detail": "Recommended a first-line-reply stack using n8n, a low-cost LLM API, and Qdrant, with Jarvis as back-office supervisor.",
+          "status": "Done",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "News Radar",
+      "color": "#ff9f43",
+      "date": "2026-11-13",
+      "items": [
+        {
+          "title": "AI news sample",
+          "detail": "Sent Law a sample of today's AI news.",
+          "status": "Done"
+        },
+        {
+          "title": "Daily brief",
+          "detail": "Set up the daily tech news brief at 12:00 noon.",
+          "status": "Done"
+        },
+        {
+          "title": "Prices in MYR",
+          "detail": "Prices in the brief are now shown in ringgit (MYR).",
+          "status": "Done"
+        }
+      ]
+    },
+    {
+      "id": "fitory",
+      "name": "Fitory Setup",
+      "color": "#a77bff",
+      "date": "2026-11-13",
+      "items": [
+        {
+          "title": "Bot created",
+          "detail": "New on-site setup assistant for Fitory Fitness outlets. Standing by until a new outlet opens.",
+          "status": "Done"
+        },
+        {
+          "title": "Setup guides saved",
+          "detail": "Saved outlet hardware and network setup guides.",
+          "status": "Done"
+        }
+      ]
+    }
+  ]
+}
