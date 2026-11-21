@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "Nov 18, 2026, 9:35 PM (Malaysia time, UTC+8)",
+  "lastUpdated": "Nov 21, 2026, 9:30 PM (Malaysia time, UTC+8)",
   "logs": [
     {
       "id": "cs",
@@ -27,6 +27,18 @@
           "detail": "Designed a test sub-workflow for auto-tagging, plus advice on urgent-chat alerts and a membership-freeze intake flow.",
           "status": "In progress",
           "date": "2026-11-18"
+        },
+        {
+          "title": "Support workflow read-only review",
+          "detail": "Reviewed the test and production support workflows read-only and produced a list of fixes to make before go-live; nothing was changed.",
+          "status": "Done",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "Knowledge base v2 draft",
+          "detail": "Drafting an expanded support knowledge base; it goes live only after Law confirms.",
+          "status": "In progress",
+          "date": "2026-11-21"
         }
       ]
     },
@@ -73,6 +85,18 @@
           "detail": "Recommended a first-line-reply stack using n8n, a low-cost LLM API, and Qdrant, with Jarvis as back-office supervisor.",
           "status": "Done",
           "date": "2026-11-18"
+        },
+        {
+          "title": "Workflow review and recommendations",
+          "detail": "Reviewed the support team's work and wrote up pre-launch fixes.",
+          "status": "Done",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "Status site moved to GitHub Pages",
+          "detail": "Site is now public and sanitized, with no usage numbers or internal details.",
+          "status": "Done",
+          "date": "2026-11-21"
         }
       ]
     },
@@ -96,6 +120,12 @@
           "title": "Prices in MYR",
           "detail": "Prices in the brief are now shown in ringgit (MYR).",
           "status": "Done"
+        },
+        {
+          "title": "Daily tool picks",
+          "detail": "Switched from general news to 5 daily open-source skills, MCP servers and AI automation tools, with capabilities and pricing in MYR.",
+          "status": "Ongoing",
+          "date": "2026-11-20"
         }
       ]
     },
