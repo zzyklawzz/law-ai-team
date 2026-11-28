@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "Nov 27, 2026, 9:30 PM (Malaysia time, UTC+8)",
+  "lastUpdated": "Nov 28, 2026, 9:30 PM (Malaysia time, UTC+8)",
   "logs": [
     {
       "id": "cs",
@@ -109,6 +109,18 @@
           "detail": "Advised on a local dev/test setup separate from production and on ways to measure and improve auto-reply quality.",
           "status": "Done",
           "date": "2026-11-24"
+        },
+        {
+          "title": "Hosting plan price check",
+          "detail": "Compared current server hosting promotions, with prices shown in MYR.",
+          "status": "Done",
+          "date": "2026-11-28"
+        },
+        {
+          "title": "Self-learning support flow advice",
+          "detail": "Outlined a human-approved feedback loop so support replies improve over time; hand-off to the support team planned after QA fixes.",
+          "status": "Done",
+          "date": "2026-11-27"
         }
       ]
     },
